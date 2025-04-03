@@ -80,9 +80,16 @@ pip install -r requirements.txt
 3. Edite o arquivo `config.ini` com seus dados da Blaze e Telegram.
 
 4. Adicione seus padrões no arquivo `sequencias.json`:
+   V = VERMELHO
+   P = PRETO
+   B = BRANCO
+   X = Qualquer cor
+   Aceita numeros de 0 a 14 separados por ,
 ```json
 [
-  [["V", "P", "B"], "P"],
+  [[7, "X", "V"], "P"],
+  [["V", "X", "V"], "P"],
+  [["X", "P", "P"], "P"],
   [["B", "V", "B"], "V"]
 ]
 ```
