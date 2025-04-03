@@ -58,7 +58,7 @@ Ele analisa sequências com base em padrões salvos, envia **sinais automatizado
 
 ```ini
 [url_cassino]
-url = https://api.blaze.bet
+url = https://api.blaze.bet.br
 
 [bot_config]
 api_key = SEU_TOKEN_DO_BOT
