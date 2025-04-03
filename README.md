@@ -45,7 +45,6 @@ Ele analisa sequências com base em padrões salvos, envia **sinais automatizado
 ├── config.ini                # Configurações de tokens, URLs e stickers
 ├── sequencias.json          # Lista de padrões e previsões (Ex: [["V,P,B","P"]])
 ├── bot.py                   # Código principal do bot
-├── pix_qrcode.png           # Imagem opcional do QR code para apoio
 └── README.md                # Este arquivo de documentação
 ```
 
@@ -69,8 +68,8 @@ sticker_pybots = CAACAgEAAxkBC...
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/aldorip/Blaze-bot-sinal-double.git
+cd Blaze-bot-sinal-double
 ```
 
 2. Instale as dependências:
