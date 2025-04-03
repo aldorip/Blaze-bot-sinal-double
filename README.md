@@ -127,7 +127,11 @@ Se este projeto te ajudou ou você curtiu a ideia, considere apoiar com uma doa�
 <p align="lefth">
   <img src="https://raw.githubusercontent.com/aldorip/api_resultados_blaze/refs/heads/main/pix_qrcode.png" alt="QR Code PIX" width="220"/>
 </p>
-
+<p> 
+   Aldo Ribeiro Pinto<br>
+   ***046.923***<br>
+   BANCO INTER<br>
+</p>
 📌 Chave PIX (aleatória):  
 `f2f781b0-a4af-43f2-a2b3-f2c5d3a2e9bc`
 
