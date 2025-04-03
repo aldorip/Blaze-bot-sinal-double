@@ -12,7 +12,12 @@ Ele analisa sequências com base em padrões salvos, envia **sinais automatizado
 > Este projeto é de caráter **educacional** e **analítico**, não representando incentivo à prática de jogos de azar. Use com responsabilidade.
 
 ---
-[![Veja o Bot em Ação](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## 🎥 Demonstração em Vídeo
+
+[![Ver Demonstração no YouTube](https://img.youtube.com/vi/BAb76DlNJTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=BAb76DlNJTQ)
+
+> 🔗 Clique na imagem acima para assistir ao funcionamento do bot em tempo real.
 ## ⚙️ Funcionalidades
 
 ✅ Monitoramento em tempo real do jogo Double  
